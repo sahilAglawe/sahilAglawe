@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilaglawe&label=Profile%20views&color=0e75b6&style=flat" alt="sahilaglawe" /> </p>
 
-- 🌱 I’m currently learning **java full stack **
+- 🌱 I’m currently learning **java full stack**
 
 - 👯 I’m looking to collaborate on **(Java/mern) Full Stack**
 
