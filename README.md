@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilaglawe&label=Profile%20views&color=0e75b6&style=flat" alt="sahilaglawe" /> </p>
 
-- 🌱 I’m currently learning **React ,**
+- 🌱 I’m currently learning **java full stack **
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 I’m looking to collaborate on **(Java/mern) Full Stack**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack and java full stack**
 
 - 📫 How to reach me **sahilaglawe66@gmail.com**
 
