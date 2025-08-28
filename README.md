@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **java full stack**
 
-- 👯 I’m looking to collaborate on **(Java/mern) Full Stack**
+- 👯 I’m looking to collaborate on **( Java/mern ) Full Stack**
 
 - 💬 Ask me about **MERN Stack and java full stack**
 
