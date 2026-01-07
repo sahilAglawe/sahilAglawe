@@ -37,7 +37,7 @@
 
 ### 🗄️ Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,eclipse,postman" />
 </p>
 
 ---
