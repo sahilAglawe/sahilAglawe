@@ -32,7 +32,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,spring-boot,hibernate,nodejs" />
 </p>
 
 ### 🗄️ Database & Tools
