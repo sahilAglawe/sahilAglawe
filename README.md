@@ -27,7 +27,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
 </p>
 
 ### ⚙️ Backend
